@@ -4,5 +4,6 @@
     <string name="app_name">GridImageSearch</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="query_hint">Enter Search Term</string>
+	<string name="search_text">Search</string>
 </resources>
